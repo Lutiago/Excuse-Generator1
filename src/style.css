@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+p {
+  fontcolor: black;
+  font-size: large;
+}
+body {
+  background-color: blueviolet;
+}
